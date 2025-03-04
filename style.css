@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(76, 187, 187);
+}
+.outer-style{
+    border: dotted 2px blue;
+    width: 50%;
+    margin: 0 auto;
+    background-color: darkgray;
+    text-align: center;
+    margin-top: 10%;
+}
+.inner_style{
+    border: solid 2px greenyellow;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 30px;
+    margin: 5%;
+    padding: 20px;
+    background-color:rgb(65, 102, 102);
+}
